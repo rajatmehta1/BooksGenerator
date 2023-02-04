@@ -1,0 +1,2 @@
+How do you define threads in Python ?
+Give an example of Lambda function in Python ?
